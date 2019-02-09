@@ -1,0 +1,31 @@
+input#text {
+    position: absolute;
+    left: 30%;
+    width: 30%;
+    top: 35%;
+    margin-right: 10px;
+}
+
+select#language{
+    position: absolute;
+    left: 60%;
+    width: 10%;
+    top: 35%;
+    margin-left: 10px;
+}
+
+button#btn{
+    margin-top: 80px;
+    background-color: purple;
+    color: white;
+}
+
+body{
+    background-color:steelblue;
+}
+
+
+div#result h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
